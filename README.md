@@ -1,18 +1,18 @@
 ## README Challenge 1
 
 ## Description
-Refracting existing coding to make it more accessible as well as organized sections without changing what the existing code already does.
+Refracting existing coding to make it more accessible as well as organized sections without changing what the existing code already does. Corrected footer header.
 ## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
+MIT license
 
 ## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+Multple images from Horiseon company showcasing what the company does. Links at the of the webpage that take the user to the particular section they are clicking.
 
 ## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
+Made using latest version of GitHub and Visual Studio Code.
 
 ## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
+This repository can be worked on by anyone with the latest versin of GitHub installed. Each link at the top should take the user to teh corresponding section. Clone repository to local machine using git clone git@github.com:jkrieger6/challenge-1.git  
 
 ## Support
 For support, email jkrieger11@gmail.com.
