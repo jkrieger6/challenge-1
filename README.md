@@ -1,7 +1,7 @@
-## README Challenge 1
+## README Challenge 1 Refractoring existing code
 
 ## Description
-Refracting existing coding to make it more accessible as well as organized sections without changing what the existing code already does. Corrected footer header.
+Refracting existing coding to make it more accessible as well as organized sections without changing what the existing code already does. Corrected footer header. Added HTML semantics.
 ## Badges
 MIT license
 
@@ -21,4 +21,4 @@ For support, email jkrieger11@gmail.com.
 N/A
 
 ## Contributing
-Open to contributions, please send ideas and suggestions in email format with screenshots to jkriegre11@gmail.com.
+Open to contributions, please send ideas and suggestions in email format with screenshots to jkrieger11@gmail.com.
